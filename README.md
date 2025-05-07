@@ -52,3 +52,5 @@ No arquivo `Main.java` há um **checklist** com **20 perguntas**. Cada item leva
 
 ---
 
+## Créditos: Thiago Honorato (Monitor - POO 2025/1 - Turma A)
+
